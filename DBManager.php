@@ -4,7 +4,7 @@ class DBManager{
         "host" => "localhost",
         "user" => "root",
         "pass" => "",
-        "db" => "charles"
+        "db" => ""
     );
 
     function DBManager(){
